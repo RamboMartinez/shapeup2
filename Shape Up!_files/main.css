@@ -17,17 +17,3 @@ header img {
 main {
     clear: both;
 }
-
-main a {
-    color: red;
-}
-
-main ul a {
-    color: steelblue;
-}
-
-
-footer {
-    font-size: 75%;
-    text-align: center;
-}
